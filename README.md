@@ -27,15 +27,15 @@ You're sections headers will be used to reference location of destination.
 
 ## Installation
 
-`01.\DOWNLOAD THE ZIP REPOSITORY`
-`02.\_UNZIP`
-`03.\_CD INTO PROJECT`
-`04.\_NPM INSTALL`
-`05.\_GO TO GITHUB DEVELOPERS PAGE` - [GitHub](https://developer.github.com/program/)
-`06.\_REGISTER AND GET YOUR 0-AUTH CREDENTIALS`
-`07.\_OPEN .env.local file AND PLACE YOUR GIHUB CREDENTIALS`
-`08.\_NPM RUN DEV`
-`09.\_VISIT - http://localhost: I’m 3000`
+- `01.\DOWNLOAD THE ZIP REPOSITORY`
+- `02.\_UNZIP`
+- `03.\_CD INTO PROJECT`
+- `04.\_NPM INSTALL`
+- `05.\_GO TO GITHUB DEVELOPERS PAGE` - [GitHub](https://developer.github.com/program/)
+- `06.\_REGISTER AND GET YOUR 0-AUTH CREDENTIALS`
+- `07.\_OPEN .env.local file AND PLACE YOUR GIHUB CREDENTIALS`
+- `08.\_NPM RUN DEV`
+- `09.\_VISIT - http://localhost: I’m 3000`
 
 ## References
 
