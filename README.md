@@ -1,6 +1,7 @@
 # mern_nextjs-api-app
 
-My simple nextjs-api-app that fetching repository from GitHub .
+- My simple nextjs-api-app that fetching repository from GitHub .
+- deployed at - https://nextjs-api-app.vercel.app/
 
 ### Table of Contents
 
@@ -17,6 +18,7 @@ You're sections headers will be used to reference location of destination.
 
 - NEXT js
 - SASS
+- Bulma
 - GitHub API
 
 ## Requirements
