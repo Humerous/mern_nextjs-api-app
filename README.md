@@ -17,7 +17,7 @@ You're sections headers will be used to reference location of destination.
 
 - NEXT js
 - SASS
--
+- GitHub API
 
 ## Requirements
 
